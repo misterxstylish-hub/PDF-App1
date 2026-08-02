@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_blue">#2196F3</color>
+    <color name="primary_blue_light">#64B5F6</color>
+    <color name="primary_blue_dark">#1976D2</color>
+    
+    <!-- Secondary Colors -->
+    <color name="secondary_teal">#00BCD4</color>
+    <color name="secondary_teal_light">#4DD0E1</color>
+    <color name="secondary_teal_dark">#0097A7</color>
+    
+    <!-- Background Colors - Light -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="surface_light">#FFFFFF</color>
+    
+    <!-- Background Colors - Dark -->
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary_light">#212121</color>
+    <color name="text_secondary_light">#757575</color>
+    <color name="text_primary_dark">#E0E0E0</color>
+    <color name="text_secondary_dark">#BDBDBD</color>
+    
+    <!-- Status Colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_orange">#FF9800</color>
+    <color name="error_red">#F44336</color>
+    
+    <!-- Pro Feature Colors -->
+    <color name="pro_gold">#FFD700</color>
+    <color name="pro_gold_light">#FFE082</color>
+</resources>
